@@ -31,7 +31,7 @@
 
 ## 🗄 Materiais
 
-- Elementos principais do HTML
+- [Elementos principais do HTML](materiais/html.pdf)
 - Propriedades importantes no CSS
 - Funções principais do JavaScript
 
