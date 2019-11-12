@@ -33,7 +33,6 @@
 
 - [Elementos principais do HTML](materiais/html.pdf)
 - [Propriedades importantes no CSS](materiais/css.pdf)
-- Principais funções no JavaScript
 
 ## 🚀 Desafios
 
