@@ -32,12 +32,13 @@
 ## 🗄 Materiais
 
 - [Elementos principais do HTML](materiais/html.pdf)
-- Propriedades importantes no CSS
-- Funções principais do JavaScript
+- [Propriedades importantes no CSS](materiais/css.pdf)
+- Principais funções no JavaScript
 
 ## 🚀 Desafios
 
-- Criando site de empresa
+- Praticando CSS
+- Construindo site institucional
 
 ## 📅 Entrega
 
