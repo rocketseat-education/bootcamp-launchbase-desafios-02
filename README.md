@@ -36,8 +36,7 @@
 
 ## 🚀 Desafios
 
-- Praticando CSS
-- Construindo site institucional
+- [Construindo Foodfy](desafios/01-foodfy.md)
 
 ## 📅 Entrega
 
