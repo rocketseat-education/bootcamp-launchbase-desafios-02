@@ -3,7 +3,7 @@
 Nesse desafio você vai construir um site completo para uma empresa de receitas chamada Foodfy.
 
 <div align="center">
-  ![Mockup](../layouts/mockup.png)
+  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/mockup.png" />
 </div>
 
 **Download dos arquivos:** https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/archive/master.zip
