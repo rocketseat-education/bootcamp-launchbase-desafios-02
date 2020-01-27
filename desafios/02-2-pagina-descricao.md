@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="../logo.svg" width="200px" />
+    <img alt="Launchbase" src="logo.svg" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -11,10 +11,12 @@
 <p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <a href="LICENSE" >
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
 
 </p>
 
@@ -51,7 +53,7 @@ Esse desafio **não precisa ser entregue** e não receberá correção. Após co
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
