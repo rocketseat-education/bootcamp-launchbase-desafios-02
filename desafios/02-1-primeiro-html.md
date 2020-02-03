@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img alt="Launchbase" src="logo.svg" width="200px" />
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
 
 <h3 align="center">
   Desafio 2-1: Primeiro HTML
 </h3>
 
-<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
+<blockquote align="center">“Sua única limitação é você mesmo!”</blockquote>
 
 <p align="center">
 
@@ -58,12 +58,12 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 
 ## :calendar: Entrega
 
-Esse desafio **não precisa ser entregue** e não receberá correção. Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+Esse desafio **não precisa ser entregue** e não receberá correção. Após concluí-lo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com :purple_heart: by [Rocketseat](https://rocketseat.com.br) :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
