@@ -37,7 +37,7 @@ A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúd
 
 ## Informações do card
 
-- Logo do curso ([Starter](https://skylab.rocketseat.com.br/static/64c237ccff807c054339a62d53b4b402.svg), [Launchbase](https://skylab.rocketseat.com.br/static/0828532024cb46921a6b5e941f8d788d.svg) e [GoStack](https://skylab.rocketseat.com.br/static/83a178a0653dab1d55e2ed7946465975.svg))
+- Logo do curso ([Starter](https://storage.googleapis.com/golden-wind/bootcamp-launchbase/assets/starter.svg), [Launchbase](https://storage.googleapis.com/golden-wind/bootcamp-launchbase/assets/launchbase.svg) e [GoStack](https://storage.googleapis.com/golden-wind/bootcamp-launchbase/assets/gostack.svg))
 - Título do curso
 - Quantidade de módulos dos cursos
 - Informação se o curso é gratuito ou pago
