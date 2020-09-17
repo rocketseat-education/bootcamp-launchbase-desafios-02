@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 2-3: Página de cursos e iframe
+  Desafio 2-3: Página de posts e iframe
 </h3>
 
 <blockquote align="center">“Você nunca sai perdendo quando ganha conhecimento!”</blockquote>
@@ -28,7 +28,7 @@
 
 ## :rocket: Sobre o desafio
 
-A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúdos. Essa página deve conter um grid onde devem ser mostrados os 3 principais cursos da Rocketseat: Starter, Launchbase e GoStack. Ao clicar em um dos cursos, deve ser aberta uma modal onde um iframe irá carregar as informações do curso selecionado.
+A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúdos. Essa página deve conter um grid onde devem ser mostrados os seus 3 posts preferidos do Blog da Rocketseat ([Blog](https://blog.rocketseat.com.br)). Ao clicar em um dos posts, deve ser aberta uma modal onde um iframe irá carregar as informações do post selecionado.
 
 ### Informações da página
 
@@ -37,14 +37,14 @@ A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúd
 
 ## Informações do card
 
-- Logo do curso ([Starter](https://storage.googleapis.com/golden-wind/bootcamp-launchbase/assets/starter.svg), [Launchbase](https://storage.googleapis.com/golden-wind/bootcamp-launchbase/assets/launchbase.svg) e [GoStack](https://storage.googleapis.com/golden-wind/bootcamp-launchbase/assets/gostack.svg))
-- Título do curso
-- Quantidade de módulos dos cursos
-- Informação se o curso é gratuito ou pago
+- Imagem de destaque do Post ([Tutorial de como pegar os links das imagens](https://youtu.be/f4aS9ZULm4A))
+- Título do Post
+- Autor do Post
+- Tempo de Leitura
 
 ## Modal
 
-O modal deve conter um iframe que busca a página do curso (dica: basta adicionar `starter`, `launchbase` ou `gostack` ao final de `https://rocketseat.com.br/`). Além do botão de fechar o modal, é preciso implementar a funcionalidade de maximizar o modal (dica: utilize a mesma lógica implementada para fechar o `modalOverlay`, mas trabalhe com a classe `modal` e utilize o método `contains` do `classList` para verificar se o elemento está ou não com a classe `maximize`).
+O modal deve conter um iframe que busca a página do post (dica: basta adicionar o Slug - versão padronizada do título - ao final de `https://blog.rocketseat.com.br/`, por exemplo, `axios-um-cliente-http-full-stack`). Além do botão de fechar o modal, é preciso implementar a funcionalidade de maximizar o modal (dica: utilize a mesma lógica implementada para fechar o `modalOverlay`, mas trabalhe com a classe `modal` e utilize o método `contains` do `classList` para verificar se o elemento está ou não com a classe `maximize`).
 
 ### Estilização
 
