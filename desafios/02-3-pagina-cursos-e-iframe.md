@@ -50,7 +50,7 @@ O modal deve conter um iframe que busca a página do post (dica: basta adicionar
 
 Você tem liberdade para escolher a estilização que preferir para esse desafio, mas alguns pontos são obrigatórios:
 
-- Deve ser utilizado o grid para organizar os cursos
+- Deve ser utilizado o grid para organizar os posts
 - O modal nunca deve abrir maximizado
 
 ## :calendar: Entrega
