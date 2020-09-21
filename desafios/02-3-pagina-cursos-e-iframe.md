@@ -33,7 +33,7 @@ A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúd
 ### Informações da página
 
 - Título da página
-- Grid com 3 colunas e 1 linha onde serão apresentados os cards dos cursos
+- Grid com 3 colunas e 1 linha onde serão apresentados os cards dos posts
 
 ## Informações do card
 
