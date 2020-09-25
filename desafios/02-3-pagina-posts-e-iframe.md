@@ -28,7 +28,7 @@
 
 ## :rocket: Sobre o desafio
 
-A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúdos. Essa página deve conter um grid onde devem ser mostrados os seus 3 posts preferidos do Blog da Rocketseat ([Blog](https://blog.rocketseat.com.br)). Ao clicar em um dos posts, deve ser aberta uma modal onde um iframe irá carregar as informações do post selecionado.
+A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúdos. Essa página deve conter um grid onde devem ser mostrados os seus 3 posts favoritos do Blog da Rocketseat ([Blog](https://blog.rocketseat.com.br)). Ao clicar em um dos posts, deve ser aberta uma modal onde um iframe irá carregar as informações do post selecionado.
 
 ### Informações da página
 
